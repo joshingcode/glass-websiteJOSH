@@ -183,7 +183,7 @@ main {
 }
 
 /* MEDIA QUERY FOR TABLET */
-@media screen and (max-width:800px) {
+@media screen and (max-width:900px) {
   .glass{
     display:flex;
     flex-direction:column;
